@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/boilerplate-react/static/css/main.ca665881.css",
-    "main.js": "/boilerplate-react/static/js/main.cc07c2ed.js",
+    "main.js": "/boilerplate-react/static/js/main.ff45821b.js",
     "static/css/879.a280906d.chunk.css": "/boilerplate-react/static/css/879.a280906d.chunk.css",
     "static/js/879.818ebf78.chunk.js": "/boilerplate-react/static/js/879.818ebf78.chunk.js",
     "static/css/30.d137c613.chunk.css": "/boilerplate-react/static/css/30.d137c613.chunk.css",
     "static/js/30.2cfc5b83.chunk.js": "/boilerplate-react/static/js/30.2cfc5b83.chunk.js",
     "static/js/974.b454076c.chunk.js": "/boilerplate-react/static/js/974.b454076c.chunk.js",
     "static/css/304.6169fae5.chunk.css": "/boilerplate-react/static/css/304.6169fae5.chunk.css",
-    "static/js/304.91549c57.chunk.js": "/boilerplate-react/static/js/304.91549c57.chunk.js",
+    "static/js/304.db8464e6.chunk.js": "/boilerplate-react/static/js/304.db8464e6.chunk.js",
     "static/js/787.6cebb76b.chunk.js": "/boilerplate-react/static/js/787.6cebb76b.chunk.js",
     "static/js/949.a578f5f0.chunk.js": "/boilerplate-react/static/js/949.a578f5f0.chunk.js",
     "static/js/646.d1a0ff23.chunk.js": "/boilerplate-react/static/js/646.d1a0ff23.chunk.js",
     "index.html": "/boilerplate-react/index.html",
     "main.ca665881.css.map": "/boilerplate-react/static/css/main.ca665881.css.map",
-    "main.cc07c2ed.js.map": "/boilerplate-react/static/js/main.cc07c2ed.js.map",
+    "main.ff45821b.js.map": "/boilerplate-react/static/js/main.ff45821b.js.map",
     "879.a280906d.chunk.css.map": "/boilerplate-react/static/css/879.a280906d.chunk.css.map",
     "879.818ebf78.chunk.js.map": "/boilerplate-react/static/js/879.818ebf78.chunk.js.map",
     "30.d137c613.chunk.css.map": "/boilerplate-react/static/css/30.d137c613.chunk.css.map",
     "30.2cfc5b83.chunk.js.map": "/boilerplate-react/static/js/30.2cfc5b83.chunk.js.map",
     "974.b454076c.chunk.js.map": "/boilerplate-react/static/js/974.b454076c.chunk.js.map",
     "304.6169fae5.chunk.css.map": "/boilerplate-react/static/css/304.6169fae5.chunk.css.map",
-    "304.91549c57.chunk.js.map": "/boilerplate-react/static/js/304.91549c57.chunk.js.map",
+    "304.db8464e6.chunk.js.map": "/boilerplate-react/static/js/304.db8464e6.chunk.js.map",
     "787.6cebb76b.chunk.js.map": "/boilerplate-react/static/js/787.6cebb76b.chunk.js.map",
     "949.a578f5f0.chunk.js.map": "/boilerplate-react/static/js/949.a578f5f0.chunk.js.map",
     "646.d1a0ff23.chunk.js.map": "/boilerplate-react/static/js/646.d1a0ff23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca665881.css",
-    "static/js/main.cc07c2ed.js"
+    "static/js/main.ff45821b.js"
   ]
 }
