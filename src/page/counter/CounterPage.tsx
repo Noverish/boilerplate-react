@@ -1,3 +1,4 @@
+import { t } from 'i18next';
 import { Button } from 'react-bootstrap';
 import { dispatch, useSelector } from 'src/state';
 import CounterState from 'src/state/counter';
@@ -29,7 +30,7 @@ export default function CounterPage() {
             <Button onClick={changeValue(-10)}>-10</Button>
           </div>
           <div>
-            <Button onClick={clear}>Clear</Button>
+            <Button onClick={clear}>{t('clear')}</Button>
           </div>
         </div>
       </div>

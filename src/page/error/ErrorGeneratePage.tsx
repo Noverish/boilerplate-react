@@ -1,3 +1,4 @@
+import { t } from "i18next";
 import { useState } from "react";
 import { Button } from "react-bootstrap";
 
@@ -14,7 +15,7 @@ export default function ErrorGeneratePage() {
 
   return (
     <div className="ErrorGeneratePage w-100 h-100 d-flex align-items-center justify-content-center">
-      <Button onClick={generateError}>Generate Error</Button>
+      <Button onClick={generateError}>{t('generate-error')}</Button>
     </div>
   )
 }

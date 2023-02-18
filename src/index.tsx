@@ -2,10 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { Provider } from 'react-redux';
 import { RouterProvider } from 'react-router-dom';
-import './index.scss';
 import router from './page/router';
 import reportWebVitals from './reportWebVitals';
 import { store } from './state';
+
+import 'src/i18n';
+import './index.scss';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
