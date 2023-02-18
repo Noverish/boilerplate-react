@@ -1,5 +1,5 @@
 import { t } from "i18next";
-import { Badge, Card } from "react-bootstrap";
+import { Badge } from "react-bootstrap";
 import { Product } from "src/model";
 
 import './ProductView.scss';
@@ -12,7 +12,7 @@ export default function ProductView({ product }: Props) {
   return (
     <div className="ProductView">
       <div>
-        <img src={product.thumbnail} />
+        <img src={product.thumbnail} alt="thumbnail" />
       </div>
       <div className="content">
         <div className="d-flex align-items-center">

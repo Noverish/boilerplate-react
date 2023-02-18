@@ -2,7 +2,6 @@ import { lazy } from 'react';
 import { createBrowserRouter, Navigate } from 'react-router-dom';
 import ErrorBoundary from 'src/page/common/ErrorBoundary';
 import NotFoundPage from 'src/page/common/NotFoundPage';
-import LoadingPage from './common/LoadingPage';
 import routes from './routes';
 
 const CounterPage = lazy(() => import('src/page/counter/CounterPage'));
@@ -22,6 +21,6 @@ const router = createBrowserRouter([
       { path: routes.product.search, element: <ProductSearchPage /> },
     ],
   },
-])
+], { basename: '/boilerplate-react' });
 
 export default router;

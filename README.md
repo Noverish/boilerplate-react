@@ -22,3 +22,6 @@
 - Utils
   - [react hook form](https://react-hook-form.com/)
   - [classnames](https://github.com/JedWatson/classnames)
+- Deployment
+  - [gh-pages](https://github.com/tschaub/gh-pages)
+  - [Github Actions]()
