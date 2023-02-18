@@ -4,6 +4,7 @@
   - `create-react-app boilerplate-react --template typescript`
 - Styling
   - scss/sass
+  - bootstrap
 - Managing State
   - redux
   - redux-toolkit

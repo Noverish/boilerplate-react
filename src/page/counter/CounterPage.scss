@@ -1,5 +1,19 @@
 .CounterPage {
+  width: 100vw;
+  height: 100vh;
+
   display: flex;
   align-items: center;
   justify-content: center;
+
+  text-align: center;
+
+  .button_group {
+    display: flex;
+    flex-direction: column;
+
+    & > div {
+      justify-content: center;
+    }
+  }
 }
