@@ -3,13 +3,13 @@
 - Create React App v5
   - `create-react-app boilerplate-react --template typescript`
 - Managing State
-  - redux
-  - redux-toolkit
-  - redux-logger
-  - redux-thunk
+  - [redux](https://redux.js.org/)
+  - [redux-toolkit](https://redux-toolkit.js.org/)
+  - [redux-logger](https://github.com/LogRocket/redux-logger)
+  - [redux-thunk](https://redux.js.org/usage/writing-logic-thunks)
 - Routing
   - [React Router v6](https://reactrouter.com/en/main)
-  - Custom Error Boundary
+  - [Custom Error Boundary](https://github.com/Noverish/boilerplate-react/blob/master/src/page/common/ErrorBoundary.tsx)
 - Internationalization
   - [i18next](https://www.i18next.com/)
   - [react-i18next](https://react.i18next.com/)
@@ -21,3 +21,4 @@
   - [bootstrap v5](https://react-bootstrap.github.io/)
 - Utils
   - [react hook form](https://react-hook-form.com/)
+  - [classnames](https://github.com/JedWatson/classnames)
