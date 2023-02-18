@@ -9,3 +9,5 @@
   - redux-toolkit
   - redux-logger
   - redux-thunk
+- Routing
+  - react-router-dom
