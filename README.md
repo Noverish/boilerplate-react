@@ -12,3 +12,5 @@
   - redux-thunk
 - Routing
   - react-router-dom
+- Utils
+  - [react-hook-form](https://react-hook-form.com/)
