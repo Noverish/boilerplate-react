@@ -14,14 +14,14 @@
   - [i18next](https://www.i18next.com/)
   - [react-i18next](https://react.i18next.com/)
 - Network
-  - [axios](https://axios-http.com/)
-  - [react query v4](https://tanstack.com/query/latest)
+  - [Axios](https://axios-http.com/)
+  - [TanStack Query v4 (React Query)](https://tanstack.com/query/latest)
 - Styling
-  - scss
-  - [bootstrap v5](https://react-bootstrap.github.io/)
+  - [SCSS](https://sass-lang.com/)
+  - [Bootstrap v5](https://react-bootstrap.github.io/)
 - Utils
-  - [react hook form](https://react-hook-form.com/)
-  - [classnames](https://github.com/JedWatson/classnames)
+  - [React Hook Form](https://react-hook-form.com/): Performant, flexible and extensible forms with easy-to-use validation.
+  - [Classnames](https://github.com/JedWatson/classnames): A simple JavaScript utility for conditionally joining classNames together.
 - Deployment
   - [gh-pages](https://github.com/tschaub/gh-pages)
   - [Github Actions](https://github.com/Noverish/boilerplate-react/blob/master/.github/workflows/deploy.yml)
