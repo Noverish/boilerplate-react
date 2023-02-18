@@ -24,4 +24,4 @@
   - [classnames](https://github.com/JedWatson/classnames)
 - Deployment
   - [gh-pages](https://github.com/tschaub/gh-pages)
-  - [Github Actions]()
+  - [Github Actions](https://github.com/Noverish/boilerplate-react/blob/master/.github/workflows/deploy.yml)
