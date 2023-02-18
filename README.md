@@ -11,6 +11,7 @@
   - redux-logger
   - redux-thunk
 - Routing
-  - react-router-dom
+  - [React Router v6](https://reactrouter.com/en/main)
+  - Custom Error Boundary
 - Utils
   - [react-hook-form](https://react-hook-form.com/)
