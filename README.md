@@ -2,9 +2,6 @@
 
 - Create React App v5
   - `create-react-app boilerplate-react --template typescript`
-- Styling
-  - scss
-  - bootstrap
 - Managing State
   - redux
   - redux-toolkit
@@ -16,5 +13,11 @@
 - Internationalization
   - [i18next](https://www.i18next.com/)
   - [react-i18next](https://react.i18next.com/)
+- Network
+  - [axios](https://axios-http.com/)
+  - [react query v4](https://tanstack.com/query/latest)
+- Styling
+  - scss
+  - [bootstrap v5](https://react-bootstrap.github.io/)
 - Utils
-  - [react-hook-form](https://react-hook-form.com/)
+  - [react hook form](https://react-hook-form.com/)
