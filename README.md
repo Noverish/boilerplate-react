@@ -23,5 +23,5 @@
   - [React Hook Form](https://react-hook-form.com/): Performant, flexible and extensible forms with easy-to-use validation.
   - [Classnames](https://github.com/JedWatson/classnames): A simple JavaScript utility for conditionally joining classNames together.
 - Deployment
-  - [gh-pages](https://github.com/tschaub/gh-pages)
-  - [Github Actions](https://github.com/Noverish/boilerplate-react/blob/master/.github/workflows/deploy.yml)
+  - [GitHub Pages Deploy Action](https://github.com/marketplace/actions/deploy-to-github-pages)
+  - [SPA Github Pages](https://github.com/rafgraph/spa-github-pages)
