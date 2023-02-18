@@ -15,7 +15,7 @@ export default function ProductView({ product }: Props) {
         <img src={product.thumbnail} alt="thumbnail" />
       </div>
       <div className="content">
-        <div className="d-flex align-items-center">
+        <div className="d-flex align-items-start">
           <span className="title">{product.title}</span>
           <Badge className="category ms-auto">{product.category}</Badge>
         </div>
