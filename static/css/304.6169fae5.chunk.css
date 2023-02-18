@@ -1,0 +1,2 @@
+.ProductView{cursor:pointer;display:flex;min-height:160px}.ProductView:hover{background-color:#eee}.ProductView img{height:160px;object-fit:cover;width:160px}.ProductView .content{display:flex;flex:1 1;flex-direction:column;padding:0 .5rem}.ProductView .title{font-size:1.5rem;font-style:bold}.ProductView .description{color:var(--bs-secondary);font-size:.75rem}.ProductView .price{text-decoration:line-through}
+/*# sourceMappingURL=304.6169fae5.chunk.css.map*/

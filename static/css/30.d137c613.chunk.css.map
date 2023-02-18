@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/30.d137c613.chunk.css","mappings":"AAAA,UAKE,mBADA,aAFA,aADA,WAIA","sources":["page/form/FormPage.scss"],"sourcesContent":[".FormPage {\n  width: 100vw;\n  height: 100vh;\n\n  display: flex;\n  align-items: center;\n}\n"],"names":[],"sourceRoot":""}
