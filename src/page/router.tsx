@@ -1,5 +1,5 @@
 import { lazy } from 'react';
-import { createBrowserRouter, Navigate } from 'react-router-dom';
+import { createHashRouter, Navigate } from 'react-router-dom';
 import ErrorBoundary from 'src/page/common/ErrorBoundary';
 import NotFoundPage from 'src/page/common/NotFoundPage';
 import routes from './routes';
@@ -9,7 +9,7 @@ const FormPage = lazy(() => import('src/page/form/FormPage'));
 const ErrorGeneratePage = lazy(() => import('src/page/error/ErrorGeneratePage'));
 const ProductSearchPage = lazy(() => import('src/page/product/ProductSearchPage'));
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     errorElement: <ErrorBoundary />,
     children: [
